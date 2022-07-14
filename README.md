@@ -1,6 +1,6 @@
 # Ruby-Enumerable
 
-> Simple Ruby-Enumerable App
+> Simple Ruby-Enumerable Application
 # Built With
 
 - Ruby
